@@ -1,0 +1,27 @@
+{
+  "identifier" : "Bootroom",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "BOOTROOM_PRO",
+      "localizations" : [
+        {
+          "description" : "Unlock Usage-hour tracking and maintenance reminders",
+          "displayName" : "Bootroom Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.bootroom.pro",
+      "referenceName" : "Bootroom Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
